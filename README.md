@@ -35,7 +35,7 @@ I’m **A S M SAYEM**, a **Computer Science Student** with a deep passion for **
 
 ## 🚀 Future Projects  
 🔹 **Pensiv** ✍️ – A revolutionary open-source **handwritten note-taking app**.  
-🔹 **PenHub** 📝 – A **social media platform** for sharing handwritten notes, calligraphy, and digital stationery.  
+🔹 **InkMood** 📝 – A **social media platform** for sharing handwritten notes, calligraphy, and digital stationery.  
 
 ---
 
